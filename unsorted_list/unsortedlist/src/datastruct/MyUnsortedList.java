@@ -2,6 +2,7 @@ package datastruct;
 
 import java.util.Arrays;
 
+//ON AJOUTE UN TRUC
 public class MyUnsortedList<E> implements UnsortedList<E> {
 
     private static class Link<E> {
